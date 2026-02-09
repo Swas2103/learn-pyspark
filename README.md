@@ -43,12 +43,19 @@ The objective is to gain strong hands-on experience by practicing core concepts,
 
 learn-pyspark/
 │
+
 ├── basics/ # Spark setup, basic syntax, simple operations
+
 ├── rdd/ # RDD transformations and actions
+
 ├── dataframes/ # DataFrame operations and APIs
+
 ├── spark-sql/ # SQL queries using Spark SQL
+
 ├── optimizations/ # Performance concepts (cache, partitions, etc.)
+
 ├── mini-projects/ # Hands-on PySpark projects
+
 └── notes.md # Learning notes and key takeaways
 
 
